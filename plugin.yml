@@ -1,0 +1,8 @@
+name: BetterDoubleJump
+main: me.xADudex.BDJ.Main
+author: xADudex aka xGamingDudex
+version: 1.5
+commands:
+  bdj:
+    Description: Main BetterDoubleJump command
+softdepend: [WorldGuard]
